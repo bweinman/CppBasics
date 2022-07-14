@@ -1,0 +1,4 @@
+1	Box of 64 Pixels	64 RGB pixels in a decorative box
+2	Sense of Humor	Especially dry. Imported from England.
+3	Beauty	Inner beauty. No cosmetic surgery required!
+4	Bar Code	Unused. In original packaging.
